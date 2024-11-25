@@ -1,4 +1,4 @@
-# MahaGhoneim
+# Maha Ghoneim
 I am a recent graduate of computer science with a passion for data analysis. proficient in Python, SQL and Excel. Skilled in data visualization using tools such as Matplotlib and Power BI, with expertise in statistical analysis
 and problem-solving. Dedicated to continuous learning and leveraging data-driven insights for impactful solutions.
 highly motivated and results-driven professional seeking a data analyst position.
@@ -25,4 +25,4 @@ Tools: Microsoft Excel,  Microsoft Power BI, Git, SQL server, Anaconda
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mariam-hossam-goda/" target="_blank"><img src="https://img.shields.io/badge/-mariam%20hossam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https:/www.linkedin.com/in/maha-ghoneim/" target="_blank"><img src="https://img.shields.io/badge/-mariam%20hossam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
